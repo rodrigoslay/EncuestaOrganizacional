@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EncuestaOrganizacional
 Encuesta Organizacional para PowerCars
 =======
@@ -11,8 +10,8 @@ Sistema web completo para PowerCars - Taller Mecánico que permite realizar encu
 ## 🚀 Aplicación en Producción
 
 ### URLs de Acceso
-- **Frontend (Aplicación Principal):** https://wleeojih.manus.space
-- **Backend (API):** https://ogh5izcv8evq.manus.space
+- **Frontend (Aplicación Principal):** 
+- **Backend (API):** 
 
 ### Credenciales de Administrador
 - **Usuario:** `admin`
@@ -203,7 +202,7 @@ Para soporte técnico o consultas sobre el sistema, contactar al equipo de desar
 
 ---
 
-**Desarrollado por:** Manus AI  
+**Desarrollado por:** Slay Multimedios|  
 **Fecha:** Junio 2025  
 **Versión:** 1.0.0  
 **Estado:** ✅ En Producción
